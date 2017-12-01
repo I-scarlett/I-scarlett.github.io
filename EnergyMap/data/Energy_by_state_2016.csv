@@ -1,0 +1,52 @@
+id,STATE_NAME,STATE_ABBR,Production Share (Percentile),Production Rank,Consumption per Capital (Mbtu),Consumption per Capital Rank,Expenditures per Capital (Dollars),Expenditures per Capital Rank
+01,Alaska,AK,2,13,873,2,10484,1
+02,Alabama,AL,1.8,15,395,12,5042,15
+03,Alaska,AR,1.9,14,361,17,4618,20
+04,Arkansas,AZ,0.8,27,215,42,3474,48
+05,Arizona,CA,3,10,201,49,3589,46
+06,California,CO,3.7,7,280,33,3749,41
+07,Colorado,CT,0.3,41,203,47,4191,33
+08,Connecticut,DC,0,51,267,36,3398,50
+09,Delaware,DE,0,49,298,28,4377,26
+10,Florida,FL,0.6,32,210,44,3461,49
+11,Georgia,GA,0.7,29,281,32,4049,35
+12,Hawaii,HI,0,48,202,48,5608,6
+13,Iowa,IA,0.9,24,471,5,5339,10
+14,Idaho,ID,0.2,42,325,21,4215,32
+15,Illinois,IL,3.1,8,300,26,3737,42
+16,Indiana,IN,1.3,20,426,10,4936,18
+17,Kansas,KS,1,23,390,13,4944,17
+18,Kentucky,KY,3,9,427,9,5125,14
+19,Louisiana,LA,4.8,4,849,3,8544,4
+20,Massachusetts,MA,0.2,44,209,45,3960,38
+21,Maryland,MD,0.3,39,236,40,3840,39
+22,Maine,ME,0.2,43,285,30,5270,11
+23,Michigan,MI,0.8,26,274,35,3978,37
+24,Minnesota,MN,0.5,33,339,18,4491,21
+25,Missouri,MO,0.3,40,301,25,4340,27
+26,Mississippi,MS,0.5,35,379,16,5132,13
+27,Montana,MT,1.3,21,390,14,5444,8
+28,North Carolina,NC,0.7,28,255,38,3714,43
+29,North Dakota,ND,2.7,12,788,4,10049,2
+30,Nebraska,NE,0.5,36,464,7,5440,9
+31,New Hampshire,NH,0.2,45,215,43,4447,23
+32,New Jersey,NJ,0.5,34,256,37,4446,24
+33,New Mexico,NM,2.9,11,330,20,4285,29
+34,Nevada,NV,0.1,47,232,41,3624,45
+35,New York,NY,1,22,179,50,3327,51
+36,Ohio,OH,1.3,18,319,23,4270,30
+37,Oklahoma,OK,3.7,6,411,11,5168,12
+38,Oregon,OR,0.6,30,253,39,3825,40
+39,Pennsylvania,PA,6,3,284,31,4227,31
+40,Rhode Island,RI,0,50,173,51,3568,47
+41,South Carolina,SC,0.8,25,333,19,4458,22
+42,South Dakota,SD,0.3,38,451,8,5598,7
+43,Tennessee,TN,0.6,31,325,22,4436,25
+44,Texas,TX,18,1,471,6,5983,5
+45,Utah,UT,1.4,16,277,34,3706,44
+46,Virginia,VA,1.3,19,288,29,4292,28
+47,Vermont,VT,0.1,46,206,46,5041,16
+48,Washington,WA,1.4,17,298,27,3998,36
+49,Wisconsin,WI,0.4,37,303,24,4170,34
+50,West Virginia,WV,4.7,5,389,15,4757,19
+51,Wyoming,WY,12.2,2,949,1,9828,3

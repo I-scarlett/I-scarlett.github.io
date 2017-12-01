@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	height: 100%;
+	margin: 20px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif!important;
+	/* text unselectable */
+	-webkit-user-select: none; /* Chrome/Safari */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+	font-size: 15px;
+
+}
+
+
+
+
+
+svg {
+	position: absolute;
+    height:600px;
+
+}
+
+
+h1{
+    font-size: 20px, bold;
+    text-align: center;
+    font-family:"Trebuchet MS";
+    color:#2b8cbe;
+}
+
+h3 {
+	display: inline;
+	margin-right: 10px;
+    font-size: 14px;
+    font-family:"Trebuchet MS";
+}
+
+
+
+p {
+	display: inline;
+	margin-right: 14px;
+    font-size: 10px;
+    font-family:"Trebuchet MS";
+}
+
+
+
+.gratBackground {
+  fill: #FFFFFF;
+}
+
+.gratLines {
+  fill: none;
+  stroke: #999;
+  stroke-width: 0.5px;
+}
+
+.map {
+	border-color: #999 ;
+    border-width:0.5 px;
+}
+
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+  stroke-linecap: round;
+}
+
+.dropdown {
+	margin-left:800px;
+	margin-top: 20px;
+	margin-bottom: -20px;
+}
+
+.dropdown select {
+	border: 0.5 px #FFFFFF;
+	width: 250px;
+	font-size: 14px!important;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif!important;
+}
+
+.infolabel {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	color: #807f7f;
+	background-color: rgba(239, 255, 52, 0.77);
+	border: dotted #FFFFFF;
+    border radius:60px;
+	padding: 30 px;
+}
+
+.infolabel h1 {
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	line-height: 0.8em;
+    font-size:14px;
+    margin:6px;
+    font-family:"Trebuchet MS";
+}
+
+.infolabel b {
+	float: left;
+    font-size:12px;
+    margin:6px;
+    font-family:"Trebuchet MS";
+}
+
+
+.labelname {
+	display: inline-block;
+	float: right;
+	margin: -25px 0px 0px 40px;
+	font-size: 0.8em;
+	position: absolute;
+    font-family:"Trebuchet MS";
+}
+
+.chart {
+	background-color: #fff;
+	border: medium #FFFFFF;
+	margin-left:800px;
+	margin-top: 25px;
+
+}
+
+.chartTitle {
+	font-size: 1em;
+    font-weight: bold;
+    margin: 10px;
+    font-family:"Trebuchet MS";
+    font-size: 14px;
+
+
+}
