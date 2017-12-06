@@ -6,7 +6,8 @@ $(document).ready(function() {
 r=function(){dpi=window.devicePixelRatio;$('.js-6').attr('src', (dpi>1) ? 'images/sj-340.jpeg' : 'images/sj-170.jpeg');
 $('.js-7').attr('src', (dpi>1) ? 'images/screen-shot-2017-11-20-at-1.02.35-pm-600.jpg' : 'images/screen-shot-2017-11-20-at-1.02.35-pm-300.jpg');
 $('.js-8').attr('src', (dpi>1) ? 'images/frenchnovel-600.jpg' : 'images/frenchnovel-300.jpg');
-$('.js-9').attr('src', (dpi>1) ? 'images/screen-shot-2017-11-29-at-4.14.01-pm-600.jpg' : 'images/screen-shot-2017-11-29-at-4.14.01-pm-300.jpg');};
+$('.js-9').attr('src', (dpi>1) ? 'images/screen-shot-2017-11-29-at-4.14.01-pm-600.jpg' : 'images/screen-shot-2017-11-29-at-4.14.01-pm-300.jpg');
+$('.js-10').attr('src', (dpi>1) ? 'images/screen-shot-2017-12-06-at-12.40.43-pm-600.jpg' : 'images/screen-shot-2017-12-06-at-12.40.43-pm-300.jpg');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 
